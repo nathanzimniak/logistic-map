@@ -6,7 +6,13 @@ Un programme codé en Python pour modéliser l'application logistique, son diagr
 
 ### Aperçu
 
-En construction
+<div align="center">
+  <img src="/resources/application-logistique-1.png" width="410" height="308"/>
+</div>
+
+<div align="center">
+  <img src="/resources/mandelbrot.png" width="410" height="308"/> <img src="/resources/julia.png" width="410" height="308"/>
+</div>
 
 ### Théorie
 
