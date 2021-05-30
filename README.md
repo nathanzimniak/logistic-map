@@ -1,4 +1,4 @@
-## Modélisation numérique de l'application logistique
+## Modélisation numérique de l'application logistique et des fractales associées
 
 ![](https://img.shields.io/badge/Language-Python-blue.png) ![](https://img.shields.io/badge/Version-Stable-success.png)
 
