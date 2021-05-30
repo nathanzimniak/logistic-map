@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Language-Python-blue.png) ![](https://img.shields.io/badge/Version-Stable-success.png)
 
-Des programmes codés en Python pour modéliser l'application logistique, son diagramme de bifurcation et les différentes fractales qui lui sont associées (l'ensemble de Mandelbrot et les ensembles de Julia).
+Des programmes codés en Python pour modéliser l'application logistique, son diagramme de bifurcation et les différentes fractales qui lui sont associées (l'ensemble de Mandelbrot et les ensembles de Julia). Codé avec mon ami Valentin Rollo.
 
 ### Aperçu
 
