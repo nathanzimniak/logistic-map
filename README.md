@@ -18,7 +18,7 @@ Des programmes codés en Python pour modéliser l'application logistique, son di
 
 ### Théorie
 
-En construction
+*Voir le compte-rendu [ici](https://github.com/nathanzimniak/logistic-map/blob/main/compte-rendu.pdf).*
 
 ### Bibliographie
 
