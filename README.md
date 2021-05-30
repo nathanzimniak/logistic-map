@@ -10,10 +10,11 @@ Des programmes codés en Python pour modéliser l'application logistique, son di
   <img src="resources/Application.png" />
   <img src="resources/Escaliers.png" />
   <img src="resources/Bifurcation.png" />
+  <img src="resources/Mandelbrot.png" />
 </p>
 <p float="left">
-  <img src="resources/Mandelbrot.png" />
-  <img src="resources/Julia.png" />
+  <img src="resources/Julia1.png" />
+  <img src="resources/Julia2.png" />
 </p>
 
 ### Théorie
